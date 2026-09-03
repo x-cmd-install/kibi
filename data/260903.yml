@@ -1,11 +1,13 @@
 about:
-  description: A text editor in ≤1024 lines of code, written in Rust
+  description:
+  |
+    A text editor in ≤1024 lines of code, written in Rust
   license: Apache-2.0
   homepage: 
   head: 5b8715f
   archived: false
   latestVersion: v0.3.3
-  collectedAt: 2026-09-03T05:14:09Z
+  collectedAt: 2026-09-03T22:35:24Z
 timeline:
   created: 2020-02-10
   lastCommit: 2026-09-01
@@ -23,7 +25,7 @@ language:
   Shell: 14023
   Nix: 1566
   R: 1036
-totalLine: 132111
+totalBytes: 132111
 recent:
   last30d:
     since: 2026-08-04
