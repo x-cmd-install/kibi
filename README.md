@@ -22,7 +22,50 @@ x install kibi
 - **Latest**: `v0.3.3` (2026-02-01)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 39
-- **Published**: 2026-02-01T18:15:51Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kibi-v0.3.3-aarch64-apple-darwin.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-apple-darwin.tar.gz) | 240.3 KiB | `native/darwin/arm64` |
+| [kibi-v0.3.3-aarch64-apple-darwin.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-apple-darwin.tar.gz.asc) | 228 B | `native/darwin/arm64` |
+| [kibi-v0.3.3-aarch64-apple-darwin.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-apple-darwin.tar.gz.intoto.jsonl) | 20.3 KiB | `native/darwin/arm64` |
+| [kibi-v0.3.3-aarch64-linux-android.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-linux-android.tar.gz) | 203.2 KiB | `native/linux/arm64` |
+| [kibi-v0.3.3-aarch64-linux-android.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-linux-android.tar.gz.asc) | 228 B | `native/linux/arm64` |
+| [kibi-v0.3.3-aarch64-linux-android.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-linux-android.tar.gz.intoto.jsonl) | 20.3 KiB | `native/linux/arm64` |
+| [kibi-v0.3.3-aarch64-pc-windows-msvc.zip](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-pc-windows-msvc.zip) | 201.3 KiB | `native/win/arm64` |
+| [kibi-v0.3.3-aarch64-pc-windows-msvc.zip.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-pc-windows-msvc.zip.asc) | 228 B | `native/win/arm64` |
+| [kibi-v0.3.3-aarch64-pc-windows-msvc.zip.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-pc-windows-msvc.zip.intoto.jsonl) | 20.3 KiB | `native/win/arm64` |
+| [kibi-v0.3.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-unknown-linux-gnu.tar.gz) | 204.0 KiB | `native/linux/arm64/glibc` |
+| [kibi-v0.3.3-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-unknown-linux-gnu.tar.gz.asc) | 228 B | `native/linux/arm64/glibc` |
+| [kibi-v0.3.3-aarch64-unknown-linux-gnu.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-unknown-linux-gnu.tar.gz.intoto.jsonl) | 20.2 KiB | `native/linux/arm64/glibc` |
+| [kibi-v0.3.3-aarch64-unknown-linux-musl.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-unknown-linux-musl.tar.gz) | 237.8 KiB | `native/linux/arm64/musl` |
+| [kibi-v0.3.3-aarch64-unknown-linux-musl.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-unknown-linux-musl.tar.gz.asc) | 228 B | `native/linux/arm64/musl` |
+| [kibi-v0.3.3-aarch64-unknown-linux-musl.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-aarch64-unknown-linux-musl.tar.gz.intoto.jsonl) | 20.2 KiB | `native/linux/arm64/musl` |
+| [kibi-v0.3.3-i686-pc-windows-msvc.zip](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-i686-pc-windows-msvc.zip) | 183.5 KiB | `native/win/x64` |
+| [kibi-v0.3.3-i686-pc-windows-msvc.zip.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-i686-pc-windows-msvc.zip.asc) | 228 B | `native/win/x64` |
+| [kibi-v0.3.3-i686-pc-windows-msvc.zip.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-i686-pc-windows-msvc.zip.intoto.jsonl) | 20.2 KiB | `native/win/x64` |
+| [kibi-v0.3.3-i686-unknown-linux-gnu.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-i686-unknown-linux-gnu.tar.gz) | 240.5 KiB | `native/linux/x86/glibc` |
+| [kibi-v0.3.3-i686-unknown-linux-gnu.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-i686-unknown-linux-gnu.tar.gz.asc) | 228 B | `native/linux/x86/glibc` |
+| [kibi-v0.3.3-i686-unknown-linux-gnu.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-i686-unknown-linux-gnu.tar.gz.intoto.jsonl) | 20.3 KiB | `native/linux/x86/glibc` |
+| [kibi-v0.3.3-wasm32-wasip1.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-wasm32-wasip1.tar.gz) | 103.2 KiB | `native/unknown` |
+| [kibi-v0.3.3-wasm32-wasip1.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-wasm32-wasip1.tar.gz.asc) | 228 B | `other` |
+| [kibi-v0.3.3-wasm32-wasip1.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-wasm32-wasip1.tar.gz.intoto.jsonl) | 20.3 KiB | `other` |
+| [kibi-v0.3.3-x86_64-apple-darwin.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-apple-darwin.tar.gz) | 256.4 KiB | `native/darwin/x64` |
+| [kibi-v0.3.3-x86_64-apple-darwin.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-apple-darwin.tar.gz.asc) | 228 B | `native/darwin/x64` |
+| [kibi-v0.3.3-x86_64-apple-darwin.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-apple-darwin.tar.gz.intoto.jsonl) | 20.2 KiB | `native/darwin/x64` |
+| [kibi-v0.3.3-x86_64-pc-windows-gnu.zip](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-gnu.zip) | 232.9 KiB | `native/win/x64` |
+| [kibi-v0.3.3-x86_64-pc-windows-gnu.zip.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-gnu.zip.asc) | 228 B | `native/win/x64` |
+| [kibi-v0.3.3-x86_64-pc-windows-gnu.zip.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-gnu.zip.intoto.jsonl) | 20.2 KiB | `native/win/x64` |
+| [kibi-v0.3.3-x86_64-pc-windows-msvc.zip](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-msvc.zip) | 188.0 KiB | `native/win/x64` |
+| [kibi-v0.3.3-x86_64-pc-windows-msvc.zip.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-msvc.zip.asc) | 228 B | `native/win/x64` |
+| [kibi-v0.3.3-x86_64-pc-windows-msvc.zip.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-msvc.zip.intoto.jsonl) | 20.2 KiB | `native/win/x64` |
+| [kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz) | 225.6 KiB | `native/linux/x64/glibc` |
+| [kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 228 B | `native/linux/x64/glibc` |
+| [kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz.intoto.jsonl) | 20.2 KiB | `native/linux/x64/glibc` |
+| [kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz) | 259.7 KiB | `native/linux/x64/musl` |
+| [kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.asc) | 228 B | `native/linux/x64/musl` |
+| [kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.intoto.jsonl) | 20.2 KiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -67,8 +110,8 @@ Lowest-scoring checks:
 Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kibi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kibi.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kibi.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:42:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:53:36Z._
