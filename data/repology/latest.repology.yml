@@ -1,0 +1,343 @@
+- repo: homebrew
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Text editor in ≤1024 lines of code, written in Rust
+- repo: gnuguix
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Featureful text editor in less than 1024 lines of code
+- repo: alpine_3_17
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r1
+  status: outdated
+  summary: A text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - (Apache-2.0 OR MIT) AND BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r1
+  status: outdated
+  summary: A text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - (Apache-2.0 OR MIT) AND BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r4
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r4
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r4
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r4
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: 0.2.2-r4
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.2
+  origversion: 0.3.2-r0
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: 0.3.3-r0
+  status: newest
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
+- repo: aur
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: newest
+  summary: A tiny text editor, written in Rust
+  maintainers:
+    - ilai-deutel@github
+  licenses:
+    - MIT OR Apache-2.0
+- repo: aur
+  srcname: kibi-bin
+  binname: kibi-bin
+  visiblename: kibi-bin
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: newest
+  summary: A tiny text editor, written in Rust
+  maintainers:
+    - ilai-deutel@github
+  licenses:
+    - MIT OR Apache-2.0
+- repo: aur
+  srcname: kibi-git
+  binname: kibi-git
+  visiblename: kibi-git
+  version: 0.3.2.r0.g274b371
+  origversion: 0.3.2.r0.g274b371-1
+  status: rolling
+  summary: A tiny text editor, written in Rust
+  maintainers:
+    - ilai-deutel@github
+  licenses:
+    - MIT OR Apache-2.0
+- repo: crates_io
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: A text editor in less than 1024 lines of code with syntax highlighting, search and more.
+- repo: freebsd
+  srcname: editors/kibi
+  binname: kibi
+  visiblename: editors/kibi
+  version: 0.3.1
+  origversion: 0.3.1_8
+  status: outdated
+  summary: Tiny text editor written in Rust
+  maintainers:
+    - lcook@freebsd.org
+  categories:
+    - editors
+- repo: macports
+  srcname: editors/kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - sikmir@github
+  licenses:
+    - Apache-2
+    - MIT
+  categories:
+    - editors
+- repo: nix_stable_24_05
+  srcname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: null
+  status: outdated
+  summary: A text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: null
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: null
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.1
+  origversion: null
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_26_05
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+    - ilai-deutel@github
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_unstable
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+    - ilai-deutel@github
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: editors/kibi
+  binname: kibi
+  visiblename: editors/kibi
+  version: 0.3.1
+  origversion: null
+  status: outdated
+  summary: Text editor in less than 1024 lines of code, written in Rust
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - editors
+- repo: pkgsrc_2026_2
+  srcname: editors/kibi
+  binname: kibi
+  visiblename: editors/kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Text editor in less than 1024 lines of code, written in Rust
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - editors
+- repo: pkgsrc_current
+  srcname: editors/kibi
+  binname: kibi
+  visiblename: editors/kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: Text editor in less than 1024 lines of code, written in Rust
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - editors
+- repo: termux
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: A tiny terminal text editor, written in Rust
+  maintainers:
+    - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: kibi
+  binname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: 0.3.3_1
+  status: newest
+  summary: Lightweight, configurable text editor
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: wikidata
+  srcname: Q104451372
+  visiblename: Kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: terminal text editor
+  licenses:
+    - Apache Software License 2.0
+    - MIT License
