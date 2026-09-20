@@ -4,7 +4,7 @@
 
 A text editor in ≤1024 lines of code, written in Rust
 
-![kibi](https://repo.x-cmd.io/kibi.svg)
+[![x-cmd/install — kibi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kibi.svg)](https://x-cmd.com/install/kibi)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,945 · **Forks**: 115 · **Open issues**: 56 · **Contributors**: 28
+- **Stars**: 1,946 · **Forks**: 115 · **Open issues**: 56 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 6 | 0 | 1 | 5 |
-| last60d | 2026-07-20 | 0 | 4 | 6 | 1 | 1 | 7 |
-| 90d | 2026-06-20 | 0 | 9 | 6 | 1 | 1 | 13 |
-| last180d | 2026-03-22 | 0 | 30 | 6 | 1 | 1 | 39 |
-| 360d | 2025-09-23 | 4 | 153 | 10 | 14 | 5 | 176 |
-| last720d | 2024-09-28 | 4 | 244 | 10 | 17 | 7 | 275 |
+| 30d | 2026-08-21 | 0 | 2 | 6 | 0 | 1 | 5 |
+| last60d | 2026-07-22 | 0 | 4 | 6 | 1 | 1 | 7 |
+| 90d | 2026-06-22 | 0 | 9 | 6 | 1 | 1 | 13 |
+| last180d | 2026-03-24 | 0 | 30 | 6 | 1 | 1 | 39 |
+| 360d | 2025-09-25 | 4 | 153 | 10 | 14 | 5 | 172 |
+| last720d | 2024-09-30 | 4 | 242 | 10 | 17 | 7 | 275 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:47:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:58:10Z._
