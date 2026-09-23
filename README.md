@@ -4,7 +4,7 @@
 
 A text editor in ≤1024 lines of code, written in Rust
 
-[![x-cmd/install — kibi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kibi.svg)](https://x-cmd.com/install/kibi)
+[![x-cmd/install — kibi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kibi.svg)](https://x-cmd.com/install/kibi)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 6 | 0 | 1 | 5 |
-| last60d | 2026-07-24 | 0 | 4 | 6 | 1 | 1 | 7 |
-| 90d | 2026-06-24 | 0 | 9 | 6 | 1 | 1 | 13 |
-| last180d | 2026-03-26 | 0 | 30 | 6 | 1 | 1 | 39 |
-| 360d | 2025-09-27 | 4 | 153 | 10 | 14 | 5 | 172 |
-| last720d | 2024-10-02 | 4 | 242 | 10 | 17 | 7 | 275 |
+| 30d | 2026-08-24 | 0 | 2 | 6 | 0 | 1 | 5 |
+| last60d | 2026-07-25 | 0 | 4 | 6 | 1 | 1 | 7 |
+| 90d | 2026-06-25 | 0 | 9 | 6 | 1 | 1 | 13 |
+| last180d | 2026-03-27 | 0 | 30 | 6 | 1 | 1 | 39 |
+| 360d | 2025-09-28 | 4 | 153 | 10 | 14 | 5 | 172 |
+| last720d | 2024-10-03 | 4 | 242 | 10 | 17 | 7 | 273 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T02:55:52Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T02:56:28Z._
