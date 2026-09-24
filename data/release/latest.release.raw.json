@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 238461,
       "digest": "sha256:38e8e31fbdf6026a30d04e0e3511c5594bf853f30f57312805cd49571294bdf8",
-      "download_count": 95,
+      "download_count": 96,
       "created_at": "2026-02-01T15:56:36Z",
       "updated_at": "2026-02-01T15:56:36Z",
       "browser_download_url": "https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-pc-windows-gnu.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 230992,
       "digest": "sha256:61acb4431411f3ecc438062b8ea296fbde15c3d1303ad54d9ae5deea12b7765c",
-      "download_count": 460,
+      "download_count": 461,
       "created_at": "2026-02-01T15:56:37Z",
       "updated_at": "2026-02-01T15:56:37Z",
       "browser_download_url": "https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-gnu.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 265921,
       "digest": "sha256:04e8c9c1deb404316a311929e8a32d5a9a531800f3a95a8cc0bfeccf33946212",
-      "download_count": 178,
+      "download_count": 179,
       "created_at": "2026-02-01T15:56:37Z",
       "updated_at": "2026-02-01T15:56:37Z",
       "browser_download_url": "https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz"
