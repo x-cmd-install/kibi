@@ -14,7 +14,7 @@ x install kibi
 
 ## Code insight
 
-Total: **14,466** lines of code across **91** files in the top 5 languages.
+Total: **14,467** lines of code across **91** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **14,466** lines of code across **91** files in the top 5 languages.
 | Rust | 2,051 | 210 | 335 | 18 |
 | Ini | 403 | 28 | 3 | 53 |
 | Sh | 364 | 52 | 72 | 7 |
-| Toml | 291 | 15 | 37 | 9 |
+| Toml | 292 | 15 | 37 | 9 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.3.3` (2026-02-01)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-09-25
 - **Assets in release**: 39
 
 ## Popularity
 
-- **Stars**: 1,947 · **Forks**: 115 · **Open issues**: 57 · **Contributors**: 28
+- **Stars**: 1,948 · **Forks**: 115 · **Open issues**: 57 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 483 · **Open PRs**: 12 · **Closed issues**: 40 · **Open issues**: 17 · **Commits**: 542
+- **Releases**: 9 · **Merged PRs**: 489 · **Open PRs**: 9 · **Closed issues**: 40 · **Open issues**: 17 · **Commits**: 548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 2 | 6 | 0 | 2 | 5 |
-| last60d | 2026-07-27 | 0 | 3 | 6 | 0 | 2 | 7 |
-| 90d | 2026-06-27 | 0 | 9 | 6 | 1 | 2 | 13 |
-| last180d | 2026-03-29 | 0 | 30 | 6 | 1 | 2 | 39 |
-| 360d | 2025-09-30 | 4 | 150 | 10 | 14 | 6 | 172 |
-| last720d | 2024-10-05 | 4 | 242 | 10 | 17 | 8 | 273 |
+| 30d | 2026-08-27 | 0 | 8 | 3 | 0 | 2 | 11 |
+| last60d | 2026-07-28 | 0 | 9 | 3 | 0 | 2 | 13 |
+| 90d | 2026-06-28 | 0 | 15 | 3 | 1 | 2 | 19 |
+| last180d | 2026-03-30 | 0 | 36 | 3 | 1 | 2 | 45 |
+| 360d | 2025-10-01 | 4 | 156 | 7 | 14 | 6 | 178 |
+| last720d | 2024-10-06 | 4 | 248 | 7 | 17 | 8 | 279 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T03:02:45Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T03:06:56Z._
