@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,949 · **Forks**: 116 · **Open issues**: 57 · **Contributors**: 28
+- **Stars**: 1,951 · **Forks**: 116 · **Open issues**: 57 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 489 · **Open PRs**: 10 · **Closed issues**: 40 · **Open issues**: 17 · **Commits**: 548
+- **Releases**: 9 · **Merged PRs**: 489 · **Open PRs**: 12 · **Closed issues**: 40 · **Open issues**: 17 · **Commits**: 548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 8 | 4 | 0 | 2 | 6 |
-| last60d | 2026-07-29 | 0 | 9 | 4 | 0 | 2 | 13 |
-| 90d | 2026-06-29 | 0 | 15 | 4 | 1 | 2 | 17 |
-| last180d | 2026-03-31 | 0 | 36 | 4 | 1 | 2 | 39 |
-| 360d | 2025-10-02 | 4 | 156 | 8 | 14 | 6 | 171 |
-| last720d | 2024-10-07 | 4 | 248 | 8 | 17 | 8 | 279 |
+| 30d | 2026-08-29 | 0 | 8 | 6 | 0 | 2 | 6 |
+| last60d | 2026-07-30 | 0 | 9 | 6 | 0 | 2 | 13 |
+| 90d | 2026-06-30 | 0 | 15 | 6 | 1 | 2 | 17 |
+| last180d | 2026-04-01 | 0 | 36 | 6 | 1 | 2 | 39 |
+| 360d | 2025-10-03 | 4 | 156 | 10 | 14 | 6 | 171 |
+| last720d | 2024-10-08 | 4 | 248 | 10 | 17 | 8 | 279 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T03:12:51Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T03:11:54Z._
