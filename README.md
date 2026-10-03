@@ -14,12 +14,12 @@ x install kibi
 
 ## Code insight
 
-Total: **14,467** lines of code across **91** files in the top 5 languages.
+Total: **14,509** lines of code across **91** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 11,255 | 34 | 2 | 4 |
-| Rust | 2,051 | 210 | 335 | 18 |
+| Rust | 2,093 | 210 | 336 | 18 |
 | Ini | 403 | 28 | 3 | 53 |
 | Sh | 364 | 52 | 72 | 7 |
 | Toml | 292 | 15 | 37 | 9 |
@@ -30,7 +30,7 @@ Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.3.3` (2026-02-01)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-02
 - **Assets in release**: 39
 
 ## Popularity
 
-- **Stars**: 1,953 · **Forks**: 116 · **Open issues**: 57 · **Contributors**: 28
+- **Stars**: 1,954 · **Forks**: 116 · **Open issues**: 57 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 489 · **Open PRs**: 12 · **Closed issues**: 40 · **Open issues**: 17 · **Commits**: 548
+- **Releases**: 9 · **Merged PRs**: 493 · **Open PRs**: 12 · **Closed issues**: 40 · **Open issues**: 17 · **Commits**: 552
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 6 | 6 | 0 | 2 | 6 |
-| last60d | 2026-08-03 | 0 | 8 | 6 | 0 | 2 | 13 |
-| 90d | 2026-07-04 | 0 | 13 | 6 | 1 | 2 | 17 |
-| last180d | 2026-04-05 | 0 | 33 | 6 | 1 | 2 | 39 |
-| 360d | 2025-10-07 | 4 | 151 | 10 | 14 | 5 | 171 |
-| last720d | 2024-10-12 | 4 | 247 | 10 | 17 | 8 | 279 |
+| 30d | 2026-09-03 | 0 | 10 | 6 | 0 | 2 | 10 |
+| last60d | 2026-08-04 | 0 | 12 | 6 | 0 | 2 | 17 |
+| 90d | 2026-07-05 | 0 | 16 | 6 | 1 | 2 | 21 |
+| last180d | 2026-04-06 | 0 | 37 | 6 | 1 | 2 | 43 |
+| 360d | 2025-10-08 | 4 | 155 | 10 | 14 | 5 | 175 |
+| last720d | 2024-10-13 | 4 | 250 | 10 | 17 | 8 | 283 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T03:41:00Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T03:25:53Z._
