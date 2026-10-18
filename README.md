@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 7 | 6 | 0 | 1 | 10 |
-| last60d | 2026-08-18 | 0 | 12 | 8 | 0 | 2 | 15 |
-| 90d | 2026-07-19 | 0 | 14 | 8 | 1 | 2 | 17 |
-| last180d | 2026-04-20 | 0 | 32 | 8 | 1 | 2 | 36 |
-| 360d | 2025-10-22 | 4 | 136 | 12 | 10 | 3 | 152 |
-| last720d | 2024-10-27 | 4 | 249 | 12 | 17 | 8 | 279 |
+| 30d | 2026-09-18 | 0 | 7 | 6 | 0 | 1 | 10 |
+| last60d | 2026-08-19 | 0 | 12 | 8 | 0 | 2 | 15 |
+| 90d | 2026-07-20 | 0 | 14 | 8 | 1 | 2 | 17 |
+| last180d | 2026-04-21 | 0 | 32 | 8 | 1 | 2 | 29 |
+| 360d | 2025-10-23 | 4 | 134 | 12 | 10 | 3 | 139 |
+| last720d | 2024-10-28 | 4 | 249 | 12 | 17 | 8 | 279 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T02:38:44Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T02:40:24Z._
