@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,955 · **Forks**: 116 · **Open issues**: 57 · **Contributors**: 28
+- **Stars**: 1,954 · **Forks**: 116 · **Open issues**: 57 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 7 | 5 | 0 | 1 | 10 |
-| last60d | 2026-08-23 | 0 | 12 | 7 | 0 | 2 | 15 |
-| 90d | 2026-07-24 | 0 | 14 | 7 | 1 | 2 | 17 |
-| last180d | 2026-04-25 | 0 | 30 | 7 | 1 | 2 | 29 |
-| 360d | 2025-10-27 | 4 | 128 | 11 | 9 | 3 | 139 |
-| last720d | 2024-11-01 | 4 | 249 | 11 | 17 | 8 | 279 |
+| 30d | 2026-09-23 | 0 | 7 | 5 | 0 | 1 | 10 |
+| last60d | 2026-08-24 | 0 | 12 | 7 | 0 | 2 | 15 |
+| 90d | 2026-07-25 | 0 | 14 | 7 | 1 | 2 | 17 |
+| last180d | 2026-04-26 | 0 | 26 | 7 | 1 | 2 | 29 |
+| 360d | 2025-10-28 | 3 | 126 | 11 | 8 | 3 | 139 |
+| last720d | 2024-11-02 | 4 | 248 | 11 | 17 | 8 | 279 |
 
 ## Release assets
 
@@ -108,6 +108,17 @@ Lowest-scoring checks:
 | [kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.asc](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.asc) | 228 B | `native/linux/x64/musl` |
 | [kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.intoto.jsonl](https://github.com/ilai-deutel/kibi/releases/download/v0.3.3/kibi-v0.3.3-x86_64-unknown-linux-musl.tar.gz.intoto.jsonl) | 20.2 KiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/kibi). **15** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.3.3` | ✅ latest |
+| Nix unstable | `0.3.3` | ✅ latest |
+| Void | `0.3.3` | ✅ latest |
+| Alpine edge | `0.3.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kibi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -117,4 +128,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T02:56:59Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:00:49Z._
