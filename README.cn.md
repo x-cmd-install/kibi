@@ -30,8 +30,8 @@ x install kibi
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -57,12 +57,12 @@ x install kibi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 5 | 4 | 0 | 0 | 7 |
-| last60d | 2026-08-31 | 0 | 14 | 7 | 1 | 1 | 13 |
-| 90d | 2026-08-01 | 0 | 16 | 7 | 1 | 1 | 20 |
-| last180d | 2026-05-03 | 0 | 28 | 7 | 2 | 1 | 31 |
-| 360d | 2025-11-04 | 2 | 123 | 11 | 3 | 1 | 135 |
-| last720d | 2024-11-09 | 4 | 251 | 11 | 18 | 7 | 282 |
+| 30d | 2026-10-01 | 0 | 5 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-01 | 0 | 13 | 7 | 1 | 1 | 13 |
+| 90d | 2026-08-02 | 0 | 15 | 7 | 1 | 1 | 20 |
+| last180d | 2026-05-04 | 0 | 28 | 7 | 2 | 1 | 31 |
+| 360d | 2025-11-05 | 2 | 123 | 11 | 3 | 1 | 135 |
+| last720d | 2024-11-10 | 4 | 250 | 11 | 18 | 7 | 282 |
 
 ## Release 资产
 
@@ -128,4 +128,4 @@ kibi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T03:59:53Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T03:44:45Z._
