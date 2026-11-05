@@ -1,37 +1,15 @@
-- repo: nix_stable_25_05
+- repo: aur
   srcname: kibi
+  binname: kibi
   visiblename: kibi
-  version: 0.2.2
-  origversion: null
-  status: outdated
-  summary: Text editor in ≤1024 lines of code, written in Rust
+  version: 0.3.3
+  origversion: 0.3.3-1
+  status: newest
+  summary: A tiny text editor, written in Rust
   maintainers:
-    - roberto.diremigio@gmail.com
+    - ilai-deutel@github
   licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: kibi
-  visiblename: kibi
-  version: 0.3.1
-  origversion: null
-  status: outdated
-  summary: Text editor in ≤1024 lines of code, written in Rust
-  maintainers:
-    - roberto.diremigio@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_24_11
-  srcname: kibi
-  visiblename: kibi
-  version: 0.2.2
-  origversion: null
-  status: outdated
-  summary: Text editor in ≤1024 lines of code, written in Rust
-  maintainers:
-    - roberto.diremigio@gmail.com
-  licenses:
-    - MIT
+    - MIT OR Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: kibi
@@ -150,18 +128,6 @@
   licenses:
     - ( Apache-2.0 OR MIT ) AND BSD-2-Clause
 - repo: aur
-  srcname: kibi
-  binname: kibi
-  visiblename: kibi
-  version: 0.3.3
-  origversion: 0.3.3-1
-  status: newest
-  summary: A tiny text editor, written in Rust
-  maintainers:
-    - ilai-deutel@github
-  licenses:
-    - MIT OR Apache-2.0
-- repo: aur
   srcname: kibi-bin
   binname: kibi-bin
   visiblename: kibi-bin
@@ -244,6 +210,40 @@
   maintainers:
     - roberto.diremigio@gmail.com
   licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: null
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kibi
+  visiblename: kibi
+  version: 0.2.2
+  origversion: null
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.1
+  origversion: null
+  status: outdated
+  summary: Text editor in ≤1024 lines of code, written in Rust
+  maintainers:
+    - roberto.diremigio@gmail.com
+  licenses:
+    - Apache-2.0
     - MIT
 - repo: nix_stable_26_05
   srcname: kibi
