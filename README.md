@@ -30,8 +30,8 @@ Overall score: **8.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last60d | 2026-09-14 | 0 | 10 | 8 | 1 | 1 | 13 |
-| 90d | 2026-08-15 | 0 | 15 | 10 | 1 | 1 | 18 |
-| last180d | 2026-05-17 | 0 | 22 | 10 | 2 | 1 | 27 |
-| 360d | 2025-11-18 | 2 | 102 | 11 | 2 | 1 | 111 |
-| last720d | 2024-11-23 | 4 | 223 | 14 | 15 | 5 | 250 |
+| 30d | 2026-10-15 | 0 | 1 | 5 | 0 | 0 | 2 |
+| last60d | 2026-09-15 | 0 | 10 | 8 | 1 | 1 | 13 |
+| 90d | 2026-08-16 | 0 | 15 | 10 | 1 | 1 | 18 |
+| last180d | 2026-05-18 | 0 | 22 | 10 | 2 | 1 | 27 |
+| 360d | 2025-11-19 | 2 | 101 | 11 | 2 | 1 | 111 |
+| last720d | 2024-11-24 | 4 | 223 | 14 | 15 | 5 | 250 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T04:41:58Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T04:37:31Z._
