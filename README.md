@@ -26,7 +26,7 @@ Total: **14,584** lines of code across **91** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.6 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,962 · **Forks**: 119 · **Open issues**: 57 · **Contributors**: 29
+- **Stars**: 1,963 · **Forks**: 119 · **Open issues**: 57 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last60d | 2026-09-21 | 0 | 10 | 8 | 1 | 0 | 13 |
-| 90d | 2026-08-22 | 0 | 15 | 10 | 1 | 1 | 18 |
-| last180d | 2026-05-24 | 0 | 22 | 10 | 2 | 1 | 26 |
-| 360d | 2025-11-25 | 1 | 93 | 11 | 2 | 1 | 103 |
-| last720d | 2024-11-30 | 4 | 220 | 14 | 15 | 5 | 242 |
+| 30d | 2026-10-22 | 0 | 1 | 5 | 0 | 0 | 2 |
+| last60d | 2026-09-22 | 0 | 10 | 8 | 1 | 0 | 13 |
+| 90d | 2026-08-23 | 0 | 15 | 10 | 1 | 1 | 18 |
+| last180d | 2026-05-25 | 0 | 22 | 10 | 2 | 1 | 26 |
+| 360d | 2025-11-26 | 1 | 93 | 11 | 2 | 1 | 103 |
+| last720d | 2024-12-01 | 4 | 220 | 14 | 15 | 5 | 242 |
 
 ## Release assets
 
@@ -128,4 +128,4 @@ Install metadata for kibi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T05:23:50Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T05:16:02Z._
