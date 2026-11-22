@@ -1,3 +1,10 @@
+- repo: crates_io
+  srcname: kibi
+  visiblename: kibi
+  version: 0.3.3
+  origversion: null
+  status: newest
+  summary: A text editor in less than 1024 lines of code with syntax highlighting, search and more.
 - repo: alpine_3_17
   subrepo: community
   srcname: kibi
@@ -151,13 +158,6 @@
     - ilai-deutel@github
   licenses:
     - MIT OR Apache-2.0
-- repo: crates_io
-  srcname: kibi
-  visiblename: kibi
-  version: 0.3.3
-  origversion: null
-  status: newest
-  summary: A text editor in less than 1024 lines of code with syntax highlighting, search and more.
 - repo: freebsd
   srcname: editors/kibi
   binname: kibi
@@ -339,5 +339,5 @@
   status: newest
   summary: terminal text editor
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
     - MIT License
